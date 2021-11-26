@@ -44,7 +44,7 @@ void primeNumbers(int number)
         }
 }
 
-void grettings()
+void greetings()
 {
     printf("Hi, how are you doing?");
 }
