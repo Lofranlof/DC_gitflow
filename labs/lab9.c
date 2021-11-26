@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>//добавил необходимую библиотеку
 
 void intToStr(int number)
 {
