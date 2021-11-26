@@ -44,8 +44,15 @@ void primeNumbers(int number)
             }
         }
 }
+
+void greetings()
+{
+    printf("Hi, how are you doing?");
+}
+
 int main()
 {
+    greetings();
     int number1, number2;
     printf("Enter a number from 0 to 9\n");
     scanf("%d", &number1);
